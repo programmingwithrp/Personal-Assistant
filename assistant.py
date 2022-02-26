@@ -158,7 +158,7 @@ if __name__ == '__main__':
 
             elif "send message in whatsapp" in AudioToText:
 
-                kit.sendwhatmsg("+919106730525", "hi i am rishi from python program... I am not your Rishi", 12, 5)
+                kit.sendwhatmsg("+919100090525", "hi i am rishi from python program... I am not your Rishi", 12, 5)
 
             elif "facebook" in AudioToText:
                 # speak("you are speaking facebook right..")
